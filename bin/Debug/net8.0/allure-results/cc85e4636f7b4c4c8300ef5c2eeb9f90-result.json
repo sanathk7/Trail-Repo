@@ -1,0 +1,62 @@
+{
+  "uuid": "9d8a40d7-63ea-444d-994d-d18eb4f3009c",
+  "historyId": "1cff5537eb8f71de7501bb8d9fd6fed7",
+  "testCaseId": "201e062a06859bcd6a17640a6f2d9570",
+  "fullName": "Project1_Testing1:RegistrationTests.Test.CustomerLogin(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOCH8MA1BLS5"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "RegistrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CustomerLogin"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "CustomerLogin(\"Shravya\",\"121\")",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "b8d94e87-876a-41c9-97a5-a6b7f520427a-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "customer",
+      "value": "\"Shravya\"",
+      "excluded": false
+    },
+    {
+      "name": "password",
+      "value": "\"121\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734195740872,
+  "stop": 1734195740879
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "9d6e11dd-cdf9-4b64-b20e-017bbc201d0f",
+  "name": "RegistrationTests.Test.ManagerTest(\"Sanath\",\"Sanath\")",
+  "children": [
+    "ee2eefff-0694-4992-85fd-9c4aaebbea3d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734075852774,
+  "stop": 1734075852839
+}

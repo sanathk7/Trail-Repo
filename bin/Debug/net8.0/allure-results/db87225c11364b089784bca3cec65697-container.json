@@ -1,0 +1,12 @@
+{
+  "uuid": "8a446aa2-760b-4616-8151-6ae49bec5b09",
+  "name": "RegistrationTests.Test.CustomerLogin(\"Customer1\",\"Password2\")",
+  "children": [
+    "51a828b6-78cb-4c21-a452-dd768cbb4c01"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734195552473,
+  "stop": 1734195552569
+}

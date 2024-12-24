@@ -1,0 +1,13 @@
+{
+  "uuid": "a8aa68a9-06c7-4f49-9a5c-ab909e52b2a0",
+  "name": "RegistrationTests.Test",
+  "children": [
+    "9d8a40d7-63ea-444d-994d-d18eb4f3009c",
+    "96a95b43-a9c5-4c48-a6d0-6000295cd04c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734195740857,
+  "stop": 1734195740961
+}

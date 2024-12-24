@@ -1,0 +1,62 @@
+{
+  "uuid": "126dc54e-fcd6-4b72-af1f-ebe5e3f7cc87",
+  "historyId": "ec8168dc23b5663aa67b9d85234f5204",
+  "testCaseId": "201e062a06859bcd6a17640a6f2d9570",
+  "fullName": "Project1_Testing1:RegistrationTests.Test.CustomerLogin(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOCH8MA1BLS5"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "RegistrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CustomerLogin"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "CustomerLogin(\"Customer1\",\"Password2\")",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "4e340de0-a24e-4bd6-b2c6-4b08416e6af5-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "customer",
+      "value": "\"Customer1\"",
+      "excluded": false
+    },
+    {
+      "name": "password",
+      "value": "\"Password2\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734075747184,
+  "stop": 1734075747186
+}

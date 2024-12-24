@@ -1,0 +1,63 @@
+{
+  "uuid": "51a828b6-78cb-4c21-a452-dd768cbb4c01",
+  "historyId": "ec8168dc23b5663aa67b9d85234f5204",
+  "testCaseId": "201e062a06859bcd6a17640a6f2d9570",
+  "fullName": "Project1_Testing1:RegistrationTests.Test.CustomerLogin(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOCH8MA1BLS5"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "RegistrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CustomerLogin"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "CustomerLogin(\"Customer1\",\"Password2\")",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Customer login failed for user: Customer1\r\n  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at RegistrationTests.Test.CustomerLogin(String customer, String password) in C:\\Users\\sakum\\source\\repos\\Project1_Testing1\\Project1_Testing1\\Test\\Test.cs:line 28\r\n   at InvokeStub_Test.CustomerLogin(Object, Span`1)\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "customer",
+      "value": "\"Customer1\"",
+      "excluded": false
+    },
+    {
+      "name": "password",
+      "value": "\"Password2\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734195552473,
+  "stop": 1734195552565
+}

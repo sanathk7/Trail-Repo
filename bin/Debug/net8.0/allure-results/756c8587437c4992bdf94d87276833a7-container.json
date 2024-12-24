@@ -1,0 +1,12 @@
+{
+  "uuid": "a472a478-d02d-4cbb-a101-d62882cd934b",
+  "name": "RegistrationTests.Test.CustomerLogin(\"Shravya\",\"121\")",
+  "children": [
+    "9d8a40d7-63ea-444d-994d-d18eb4f3009c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734195740871,
+  "stop": 1734195740931
+}

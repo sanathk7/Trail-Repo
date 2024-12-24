@@ -1,0 +1,63 @@
+{
+  "uuid": "9eccb0c2-f3f3-4b7f-b8bc-5b64ac3b391e",
+  "historyId": "37a3de3c06b66b4a0c34227fe816835c",
+  "testCaseId": "9d6091e1d0f75b16350aaf0f6403e01d",
+  "fullName": "Project1_Testing1:RegistrationTests.Test.ManagerTest(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOCH8MA1BLS5"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "RegistrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ManagerTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "ManagerTest(\"Manager1\",\"Password1\")",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Manager login failed for user: Manager1\r\n  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at RegistrationTests.Test.ManagerTest(String manager, String password) in C:\\Users\\sakum\\source\\repos\\Project1_Testing1\\Project1_Testing1\\Test\\Test.cs:line 14\r\n   at InvokeStub_Test.ManagerTest(Object, Span`1)\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "manager",
+      "value": "\"Manager1\"",
+      "excluded": false
+    },
+    {
+      "name": "password",
+      "value": "\"Password1\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734195552578,
+  "stop": 1734195552579
+}

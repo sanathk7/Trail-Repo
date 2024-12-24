@@ -1,0 +1,62 @@
+{
+  "uuid": "7ee540a1-5b84-42fc-8c45-b94377db1a7c",
+  "historyId": "9a7b7732dcf5561d02d22051f0188eea",
+  "testCaseId": "9d6091e1d0f75b16350aaf0f6403e01d",
+  "fullName": "Project1_Testing1:RegistrationTests.Test.ManagerTest(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOCH8MA1BLS5"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "RegistrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ManagerTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "ManagerTest(\"Sanath\",\"Sanath\")",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "d1c2f234-f223-4bf7-8eb0-fdb32d677ab5-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "manager",
+      "value": "\"Sanath\"",
+      "excluded": false
+    },
+    {
+      "name": "password",
+      "value": "\"Sanath\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734075747191,
+  "stop": 1734075747192
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "e8be9006-7f95-48ea-8dda-3cb65bb69769",
+  "name": "RegistrationTests.Test.ManagerTest(\"Manager1\",\"Password1\")",
+  "children": [
+    "71425353-8a82-4fab-a15a-fde951279a76"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734075852852,
+  "stop": 1734075852858
+}
